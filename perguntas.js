@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Inglês',
-    'Como se escreve dia do paagmento?',
+    'Como se escreve dia do pagamento?',
     'Pay Day'
 )
 
