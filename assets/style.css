@@ -56,9 +56,9 @@ body {
     color: var(--text-color);
     font-weight: 500;
 }*/
-.cartao:hover .cartao__conteudo {
+/*.cartao:hover .cartao__conteudo {
 transform: rotateY(180deg);
-}
+}*/
 .cartao__conteudo__resposta p {
     color: var(--card-back-color);
     font-weight: 700;

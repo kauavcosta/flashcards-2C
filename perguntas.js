@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é JavaScript',
-    'Linguagem de programação'
+    'História',
+    'Que dia é a Proclamação da República?',
+    '15 de novembro'
 )
 
 criaCartao(
